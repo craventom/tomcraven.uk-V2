@@ -1,0 +1,11 @@
+{
+  "title": "Tom Craven",
+  "description": "Tom Craven personal website and portfolio.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  }
+}
