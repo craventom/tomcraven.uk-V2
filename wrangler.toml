@@ -3,7 +3,7 @@ pages_build_output_dir = "./dist"
 previews = {}
 
 [[routes]]
-pattern = "tomcraven.uk"
+pattern = "v2.tomcraven.uk"
 custom_domain = true
 
 [[routes]]
