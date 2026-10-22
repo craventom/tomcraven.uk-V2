@@ -7,7 +7,7 @@ pattern = "tomcraven.uk"
 custom_domain = true
 
 [[routes]]
-pattern = "v2.tomcraven.uk"
+pattern = "preview.tomcraven.uk"
 custom_domain = true
 previews_enabled = true
 enabled = false
