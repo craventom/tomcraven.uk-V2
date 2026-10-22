@@ -1,5 +1,6 @@
 name = "tomcraven-uk-v2"
 pages_build_output_dir = "./dist"
+previews = {}
 
 [[routes]]
 pattern = "tomcraven.uk"
