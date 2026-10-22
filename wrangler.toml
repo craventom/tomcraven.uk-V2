@@ -1,0 +1,12 @@
+name = "tomcraven-uk-v2"
+pages_build_output_dir = "./dist"
+
+[[routes]]
+pattern = "tomcraven.uk"
+custom_domain = true
+
+[[routes]]
+pattern = "v2.tomcraven.uk"
+custom_domain = true
+previews_enabled = true
+enabled = false
